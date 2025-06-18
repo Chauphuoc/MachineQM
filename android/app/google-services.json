@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159473727660",
+    "project_id": "irt-simexco-kcs-bod",
+    "storage_bucket": "irt-simexco-kcs-bod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159473727660:android:71a4d44012b63c17cac709",
+        "android_client_info": {
+          "package_name": "vn.com.irtech.simexco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJwBj1JLfbmwk2W8FiMji52vP38Hg3xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
